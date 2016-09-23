@@ -1,0 +1,12 @@
+c:\users\bruno\documents\visual studio 2015\Projects\ControladorDeEstoque\ControladorDeEstoque\bin\Debug\ControladorDeEstoque.exe.config
+c:\users\bruno\documents\visual studio 2015\Projects\ControladorDeEstoque\ControladorDeEstoque\bin\Debug\ControladorDeEstoque.exe
+c:\users\bruno\documents\visual studio 2015\Projects\ControladorDeEstoque\ControladorDeEstoque\bin\Debug\ControladorDeEstoque.pdb
+c:\users\bruno\documents\visual studio 2015\Projects\ControladorDeEstoque\ControladorDeEstoque\obj\Debug\ControladorDeEstoque.csprojResolveAssemblyReference.cache
+c:\users\bruno\documents\visual studio 2015\Projects\ControladorDeEstoque\ControladorDeEstoque\obj\Debug\ControladorDeEstoque.Form1.resources
+c:\users\bruno\documents\visual studio 2015\Projects\ControladorDeEstoque\ControladorDeEstoque\obj\Debug\ControladorDeEstoque.Properties.Resources.resources
+c:\users\bruno\documents\visual studio 2015\Projects\ControladorDeEstoque\ControladorDeEstoque\obj\Debug\ControladorDeEstoque.csproj.GenerateResource.Cache
+c:\users\bruno\documents\visual studio 2015\Projects\ControladorDeEstoque\ControladorDeEstoque\obj\Debug\ControladorDeEstoque.exe
+c:\users\bruno\documents\visual studio 2015\Projects\ControladorDeEstoque\ControladorDeEstoque\obj\Debug\ControladorDeEstoque.pdb
+C:\Users\bruno\Documents\Visual Studio 2015\Projects\ControladorDeEstoque\ControladorDeEstoque\obj\Debug\ControladorDeEstoque.Form2.resources
+C:\Users\bruno\documents\visual studio 2015\Projects\ControladorDeEstoque\ControladorDeEstoque\bin\Debug\MySql.Data.xml
+C:\Users\bruno\documents\visual studio 2015\Projects\ControladorDeEstoque\ControladorDeEstoque\obj\Debug\ControladorDeEstoque.Form3.resources
