@@ -24,7 +24,7 @@ namespace ControladorDeEstoque
         {
             try
             {
-                conexao = new MySqlConnection("server=31.170.160.91; user id=a8477448_admin; pwd=server123; database= a8477448_projeto");
+                conexao = new MySqlConnection("server=85.10.205.173; user id=brunopizol; pwd=1q2w3e4r5t6y; database= projetolc");
                 conexao.Open();
                 try
                 {
